@@ -56,13 +56,6 @@ h3{
     margin-left: 10vw;
 }
 .sectionEcloTitre{
-    /* display: inline-block;
-    justify-content: center;
-    background-color: #344d5b;
-    font-size: 30px;
-    margin: 10px;
-    color: white;
-    margin-left: 48vw */
     margin: 0;
     margin-top: 6vh;
     display: flex;
@@ -108,4 +101,35 @@ h3{
 
 footer{
     background-color: #393a3b;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 10vh;
+    padding-top: 5vh;
+}
+
+.footerLogo{
+    width: 10vw;
+    height: 10vh;
+    display: flex;
+    
+}
+.footerLogo>img{
+    padding: 10px;
+}
+.footerP{
+    margin-bottom: 5vh;
+}
+.divAfterFooter{
+    margin: 0;
+    padding: 0;
+    background-color: #393a3b;
+}
+.PAfterFooter{
+    margin: 0;
+    padding-bottom: 20px;
+    color: white;
+    margin-left: 95vw;
+    font-size: 15px;
 }
