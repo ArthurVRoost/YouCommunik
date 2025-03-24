@@ -38,6 +38,7 @@ header{
 h1{
     font-size: 40px;
     font-weight: 100;
+    
 }
 
 h3{
@@ -47,7 +48,7 @@ h3{
 .navLogo{
     display: flex;
     justify-content: start;
-    width: 300px;
+    width: 35vw;
     margin-top: 2vw;
     margin-left:16vw ;
 }
