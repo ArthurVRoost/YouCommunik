@@ -72,6 +72,9 @@ h3{
     color: white;
     font-weight: 100;
 }
+.sectionEcloTitre>div>h2>p{
+    font-weight: 100;
+}
 .sectionEclo{
     display: flex;
 }
