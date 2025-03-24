@@ -15,10 +15,23 @@ header{
     right: 10px;
     height: 70px;
     top: 10px;
+    justify-content: flex-end;
+    text-align: center;
     
 }
 .headerLogo{
     display: flex;
     align-items: center;
     margin-left: 10px;
+}
+
+.sectionNav{
+    background-color: #344d5b;
+    display: flex;
+    padding-bottom: 5vh;
+    padding-top: 5vh;
+    color: white;
+}
+h1{
+    font-size: 40px;
 }
