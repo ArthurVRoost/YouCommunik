@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    background-color: black;
+    height: 120px;
+}
+.divHeader{
+    display: flex;
+    color: white;
+    gap: 50px;
+    position: absolute;
+    right: 10px;
+    height: 70px;
+    top: 10px;
+    
+}
+.headerLogo{
+    display: flex;
+    align-items: center;
+}
