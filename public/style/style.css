@@ -4,6 +4,9 @@ body{
     font-family: Ubuntu;
     flex-wrap: wrap;
 }
+@media (max-width: 576px){
+    
+}
 header{
     display: flex;
     background-color: black;
