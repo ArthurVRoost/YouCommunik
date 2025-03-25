@@ -5,7 +5,7 @@ body{
     flex-wrap: wrap;
 }
 @media (max-width: 576px){
-    
+
 }
 header{
     display: flex;
@@ -19,8 +19,11 @@ header{
     display: flex;
     color: white;
     gap: 50px;
-    position: absolute;
-    right: 10px;
+    
+    position: relative;
+    
+    margin-left: 50vw;
+    margin-top: -12vh;
     height: 70px;
     top: 10px;
     justify-content: flex-end;
