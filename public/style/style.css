@@ -106,12 +106,12 @@ h3{
     justify-content: space-around;
     text-align: center;
     padding: 4vh;
+    flex-wrap: wrap;
     
     
     
 }
 .sectionEcloLogo img{
-    
     width: 5vw;
 }
 
@@ -135,6 +135,7 @@ footer{
 }
 .footerLogo>img{
     padding: 10px;
+    flex-wrap: wrap;
 }
 .footerP{
     margin-bottom: 5vh;
