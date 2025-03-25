@@ -1,12 +1,26 @@
+@media (max-width: 576px){
+
+}
+
+@media (min-width: 576px) and (max-width: 768px){
+
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+
+}
+
+@media (min-width: 992px){
+    
+}
+
 body{
     margin: 0;
     padding: 0;
     font-family: Ubuntu;
     flex-wrap: wrap;
 }
-@media (max-width: 576px){
 
-}
 header{
     display: flex;
     background-color: black;
@@ -136,7 +150,7 @@ footer{
     width: 10vw;
     height: 10vh;
     display: flex;
-    
+
     
 }
 .footerLogo>img{
